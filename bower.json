@@ -1,14 +1,11 @@
 {
-	"name": "angular-sparkline",
-	"version": "1.0.0",
+	"name": "angular-sparkline-demo",
+	"version": "0.0.0",
 	"authors": [
 		"Wolfgang wolfgang@wolfgangcodes.com"
 	],
-	"description": "An AngularJS d3.js based sparkline.",
+	"description": "Demo",
 	"keywords": [
-		"angularjs",
-		"d3js",
-		"sparkline"
 	],
 	"license": "MIT",
 	"ignore": [
@@ -22,7 +19,8 @@
 		"angular":"~1.2.0",
 		"angular-animate":"~1.2.0",
 		"angular-sanitize":"~1.2.0",
-		"angular-touch":"~1.2.0"
+		"angular-touch":"~1.2.0",
+		"angular-route":"~1.2.0"
 	},
 	"devDependencies": {
 	}
